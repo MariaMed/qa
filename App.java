@@ -1,4 +1,4 @@
-public class App22 {
+public class App23 {
 
 	public static void main(String[] args) {
 
